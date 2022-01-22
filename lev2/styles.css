@@ -9,7 +9,7 @@ body {
 
 .top-container {
   position: relative;
-  padding-top: 11px;
+  padding-top: 33px;
 
 }
 
@@ -77,14 +77,13 @@ h2 {
 }
 
 h3 {
-  font-family: 'Varela Round';
+  font-family: 'Kalam', cursive;
   font-size: 251%;
   color: #eb3d32;
-
 }
 
 .klezmer2 {
-  padding-top: 25px;
+  padding-top: 5px;
 }
 .mountain {
   position: relative;
@@ -101,10 +100,7 @@ h3 {
   display: inline-block;
   position: relative;
   left: 90px;
-  top: 16px;
-  width: 470px;
-
-
+  top: 35px;
 }
 .relieve1 {
   text-align: center;
@@ -112,6 +108,4 @@ h3 {
   position: relative;
   right: 90px;
   top: 25px;
-  width: 470px;
-
 }
