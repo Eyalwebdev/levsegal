@@ -1,0 +1,111 @@
+
+
+
+body {
+  text-align: center;
+  background-color: #e7e0c6;
+  font-family: 'Varela Round';
+}
+
+.top-container {
+  position: relative;
+  padding-top: 11px;
+
+}
+
+.middle-container {
+
+padding-top: 100px;
+
+}
+
+.levpic{
+  border-radius: 50%;
+  border-color: #eb3d32;
+}
+.bottom-container {
+
+
+}
+
+.asculptor {
+  margin-top: 0px;
+  font-size: 150%;
+
+}
+.stylescul {
+  text-decoration: underline;
+
+}
+
+
+}
+
+.top-cloud {
+  position: absolute;
+  right: 300px;
+  top: 50px;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 300px;
+  bottom: 300px;
+}
+
+h1 {
+  font-family: 'Kalam', cursive;
+  position: relative;
+  margin-top: 10px;
+  margin-bottom: 0px;
+  color: #eb3d32;
+  font-size: 382%;
+
+}
+
+
+h2 {
+  font-family: 'Kalam', cursive;
+  font-size: 311%;
+  margin-top: 0;
+  color: #eb3d32;
+
+}
+
+.work {
+  margin-top: 111px;
+}
+
+h3 {
+  font-family: 'Varela Round';
+  font-size: 251%;
+  color: #eb3d32;
+}
+
+.klezmer2 {
+  padding-top: 25px;
+}
+.mountain {
+  position: relative;
+  top: 60px
+}
+
+
+.pro {
+  text-decoration: underline;
+}
+
+.fiddlerpic {
+  text-align: center;
+  display: inline-block;
+  position: relative;
+  left: 90px;
+  top: 35px;
+}
+.relieve1 {
+  text-align: center;
+  display: inline-block;
+  position: relative;
+  right: 90px;
+  top: 25px;
+}
