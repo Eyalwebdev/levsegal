@@ -80,6 +80,7 @@ h3 {
   font-family: 'Varela Round';
   font-size: 251%;
   color: #eb3d32;
+
 }
 
 .klezmer2 {
@@ -100,7 +101,10 @@ h3 {
   display: inline-block;
   position: relative;
   left: 90px;
-  top: 35px;
+  top: 16px;
+  width: 470px;
+
+
 }
 .relieve1 {
   text-align: center;
@@ -108,4 +112,6 @@ h3 {
   position: relative;
   right: 90px;
   top: 25px;
+  width: 470px;
+
 }
