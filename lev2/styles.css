@@ -7,6 +7,31 @@ body {
   font-family: 'Varela Round';
 }
 
+h1 {
+  font-family: 'Kalam', cursive;
+  position: relative;
+  margin-top: 10px;
+  margin-bottom: 0px;
+  color: #eb3d32;
+  font-size: 382%;
+
+}
+
+
+h2 {
+  font-family: 'Kalam', cursive;
+  font-size: 311%;
+  margin-top: 0;
+  color: #eb3d32;
+
+}
+
+h3 {
+  font-family: 'Kalam', cursive;
+  font-size: 251%;
+  color: #eb3d32;
+}
+
 .top-container {
   position: relative;
   padding-top: 33px;
@@ -53,34 +78,16 @@ padding-top: 100px;
   bottom: 300px;
 }
 
-h1 {
-  font-family: 'Kalam', cursive;
-  position: relative;
-  margin-top: 10px;
-  margin-bottom: 0px;
-  color: #eb3d32;
-  font-size: 382%;
-
-}
 
 
-h2 {
-  font-family: 'Kalam', cursive;
-  font-size: 311%;
-  margin-top: 0;
-  color: #eb3d32;
 
-}
+
 
 .work {
   margin-top: 111px;
 }
 
-h3 {
-  font-family: 'Kalam', cursive;
-  font-size: 251%;
-  color: #eb3d32;
-}
+
 
 .klezmer2 {
   padding-top: 5px;
@@ -110,4 +117,23 @@ h3 {
   right: 90px;
   top: 25px;
   width: 470px;
+}
+
+.pesel1 {
+  display: inline-block;
+  position: relative;
+  padding-right: 50px;
+}
+
+.pesel2 {
+  display: inline-block;
+  position: relative;
+}
+
+.ppadding {
+  padding-right: 70px;
+}
+
+.revahpesel {
+  padding-bottom: 55px;
 }
