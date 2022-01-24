@@ -100,7 +100,8 @@ h3 {
   display: inline-block;
   position: relative;
   left: 90px;
-  top: 35px;
+  top: 17px;
+  width: 470px;
 }
 .relieve1 {
   text-align: center;
@@ -108,4 +109,5 @@ h3 {
   position: relative;
   right: 90px;
   top: 25px;
+  width: 470px;
 }
